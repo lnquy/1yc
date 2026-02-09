@@ -12,8 +12,15 @@ Conditions:
 ##### January:
 1. NextDLP: [https://github.com/lnquy/nextdlp](https://github.com/lnquy/nextdlp)  
     A context-aware AI-reasoning Data Loss Prevention (DLP) engine that can understand the file content and contexts to make decision. Built for LXP Hackathon 2026.
-2. Axe: [https://github.com/lnquy/axe](https://github.com/lnquy/axe)  
-    I need a replacement for the broken AppleScript automation, so I wrote this Swift library for MacOS automation. Using it frequently in my professional works.
 
 ##### February
-- ...
+1. Axe: [https://github.com/lnquy/axe](https://github.com/lnquy/axe)  
+    I need a replacement for the broken AppleScript automation, so I wrote this Swift library for MacOS automation. Using it frequently in my professional works.
+
+##### March
+1. Hedy: [https://github.com/lnquy/hedy](https://github.com/lnquy/hedy)  
+    Self-hosting your mobile device farm for remote access and control.
+
+##### April
+1. SpamFilter: [https://github.com/lnquy/spamfilter](https://github.com/lnquy/spamfilter)  
+    Universal messages spam filter for iOS.
